@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\obj\Release\net9.0\SnakeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\obj\Release\net9.0\SnakeApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\obj\Release\net9.0\SnakeApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\obj\Release\net9.0\SnakeApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\obj\Release\net9.0\SnakeApp.sourcelink.json
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\bin\Release\net9.0\SnakeApp.exe
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\bin\Release\net9.0\SnakeApp.deps.json
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\bin\Release\net9.0\SnakeApp.runtimeconfig.json
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\bin\Release\net9.0\SnakeApp.dll
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\bin\Release\net9.0\SnakeApp.pdb
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\obj\Release\net9.0\SnakeApp.dll
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\obj\Release\net9.0\refint\SnakeApp.dll
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\obj\Release\net9.0\SnakeApp.pdb
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\obj\Release\net9.0\SnakeApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\obj\Release\net9.0\ref\SnakeApp.dll

@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\bin\Release\net9.0\publish\SnakeApp.exe
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\bin\Release\net9.0\publish\SnakeApp.dll
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\bin\Release\net9.0\publish\SnakeApp.deps.json
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\bin\Release\net9.0\publish\SnakeApp.runtimeconfig.json
+C:\Users\Admin\Desktop\SnakeGame\SnakeGame\SnakeApp\bin\Release\net9.0\publish\SnakeApp.pdb
